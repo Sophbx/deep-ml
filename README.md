@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**4** solved · 4 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-13 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-10 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-13 | [solution](problems/0053-implement-self-attention-mechanism) |
+| [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-13 | [solution](problems/0094-implement-multi-head-attention) |
 
 ---
 
